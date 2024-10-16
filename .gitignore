@@ -1,4 +1,1 @@
-.streamlit/
-.secrets.toml
-.venv/
-.path/
+.streamlit/.secrets.toml
