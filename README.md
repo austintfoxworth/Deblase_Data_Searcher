@@ -1,3 +1,3 @@
-# Deblase_Data_Searcher
+# Deblase Data Searcher
 
-# An Open-AI enabled chatbot to retrieve various datbase queries
+# An Open-AI enabled chatbot to retrieve various datbase queries for Deblase
