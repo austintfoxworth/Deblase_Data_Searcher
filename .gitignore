@@ -1,2 +1,2 @@
-venv/./streamlit
-venv/.secrets.toml
+venv/
+path/
