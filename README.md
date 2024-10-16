@@ -1,4 +1,4 @@
-# :card_file_box: DeBlase Database Searcher 
+# DeBlase Database Searcher 
 
 # :robot: An Open-AI enabled chatbot to retrieve various database queries for DeBlase Brown Eyerly LLP
 # :computer:  This Open-AI enabled chatbot is built usig a virtual environment for increased version control and scalability! 
